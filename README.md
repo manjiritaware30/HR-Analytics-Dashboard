@@ -1,16 +1,15 @@
 # HR Analytics Dashboard | Power BI
-## 📌 Project Overview
+## Project Overview
 This project presents an interactive HR Analytics Dashboard developed using Microsoft Power BI. It provides insights into employee demographics, attrition, department-wise workforce trends, job roles, and job satisfaction to support data-driven HR decisions.
 
-## 🎯 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 - **Total Employees:** 1,470
 - **Total Attrition:** 237
 - **Attrition Rate:** 16%
 - **Active Employees:** 1,233
 - **Average Age:** 37 years
 - **Average Monthly Pay:** 6,503
-
-## 📈 Dashboard Features
+## Dashboard Features
 - Employee overview with key performance indicators
 - Employee distribution by age group and gender
 - Attrition analysis by age
@@ -24,14 +23,14 @@ This project presents an interactive HR Analytics Dashboard developed using Micr
   - Marital status
   - Business travel
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 - Microsoft Power BI
 - Data visualization
 - HR analytics
 - Interactive reporting and filtering
 - KPI analysis
 
-## 🔍 Key Insights
+## Key Insights
 The dashboard helps explore:
 - Overall employee attrition and workforce size
 - Age and gender distribution across the organization
