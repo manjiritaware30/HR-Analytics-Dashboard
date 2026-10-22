@@ -43,7 +43,7 @@ The dashboard helps explore:
 ## 👤 Author
 MANJIRI TAWARE
 
-- GitHub: [Your GitHub Profile](https://github.com/manjiritaware30)
+- GitHub:(https://github.com/manjiritaware30)
 
 
 ⭐ If you find this project useful, consider starring the repository.
